@@ -1,0 +1,21 @@
+{
+    "app": "2fauth_v5.3.0",
+    "schema": 1,
+    "datetime": "2024-12-03T10:16:10.355306Z",
+    "data": [
+        {
+            "otp_type": "totp",
+            "account": "@kairu8264",
+            "service": "Twitter",
+            "icon": null,
+            "icon_mime": null,
+            "icon_file": null,
+            "secret": "VLFRMOWG5FTSCGGM",
+            "digits": 6,
+            "algorithm": "sha1",
+            "period": 30,
+            "counter": null,
+            "legacy_uri": "otpauth:\/\/totp\/Twitter%3A%40kairu8264?issuer=Twitter&secret=VLFRMOWG5FTSCGGM"
+        }
+    ]
+}
